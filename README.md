@@ -1,0 +1,1 @@
+# Manavgat-Forest-Fire-Change-Detection-Using-Sentinel-2-Imagery-and-Random-Forest-Classification
