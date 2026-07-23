@@ -114,45 +114,14 @@ The classifier successfully distinguished burned forests from unburned vegetatio
 
 ---
 
-## 📷 Results
-
-### dNBR Map
-
-![dNBR](images/dnbr.png)
-
----
-
-### Random Forest Classification
-
-![Classification](images/classification.png)
-
----
-
-### Burned Area
-
-![Burned Area](images/burned_area.png)
-
----
-
-### Pre-fire
-
-![Pre Fire](images/pre_fire.png)
-
----
-
-### Post-fire
-
-![Post Fire](images/post_fire.png)
-
----
-
 ## 📄 Project Report
 
 Full report:
 
 📄 **Wildfire Impact Assessment Using dNBR and Random Forest Classification**
 
-(Upload the PDF to the repository and link it here.)
+[gmt346 _TermProject_busra_kirisli_2200674056.pdf](https://github.com/user-attachments/files/30287906/gmt346._TermProject_busra_kirisli_2200674056.pdf)
+
 
 ---
 
